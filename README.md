@@ -1,7 +1,6 @@
 <div align="center">
 
-
-![](https://cotunt.getloli.com/ge/@CHPLIVE)
+![](https://count.getloli.com/get/@smallfawn)
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 
